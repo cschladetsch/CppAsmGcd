@@ -8,6 +8,10 @@ This project demonstrates the integration of a NASM (x86-64 Assembly) function w
 - **C++23 Integration**: The main program is written in modern C++23 for readability and performance.
 - **Cross-Platform Build System**: Uses CMake to ensure seamless building on different systems.
 
+## Performance
+
+![Image](resources/Untititled.png)
+
 ## Requirements
 - **Compiler**: GCC with C++23 support
 - **Assembler**: NASM
