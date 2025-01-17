@@ -5,4 +5,4 @@ mkdir build
 cd build 
 cmake .. 
 make 
-
+./lcm $1 $2
