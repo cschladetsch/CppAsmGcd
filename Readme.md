@@ -2,7 +2,7 @@
 
 This project demonstrates the integration of a NASM (x86-64 Assembly) function with a modern C++23 program to compute the Least Common Multiple (LCM) of two 64-bit integers. The project is built using GCC, NASM, and CMake.
 
-Really shows that python is based on C.
+Really shows that python is based on C and the cost is is in translation and interpretation.
 
 And that ultra-customised manual Assembly is not much faster than C++.
 
