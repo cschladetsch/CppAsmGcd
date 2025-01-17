@@ -2,6 +2,12 @@
 
 This project demonstrates the integration of a NASM (x86-64 Assembly) function with a modern C++23 program to compute the Least Common Multiple (LCM) of two 64-bit integers. The project is built using GCC, NASM, and CMake.
 
+Really shows that python is based on C.
+
+And that ultra-customised manual Assembly is not much faster than C++.
+
+But it is still faster!
+
 ## Features
 - **LCM Calculation**: Uses the Euclidean algorithm to compute the Greatest Common Divisor (GCD) in assembly, which is then used to compute the LCM in C++.
 - **Efficient Assembly Code**: The GCD function is implemented in optimized x86-64 NASM assembly for high performance.
