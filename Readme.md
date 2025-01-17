@@ -10,7 +10,7 @@ This project demonstrates the integration of a NASM (x86-64 Assembly) function w
 
 ## Performance
 
-![Image](resources/Untititled.png)
+![Image](/resources/Untititled.png)
 
 ## Requirements
 - **Compiler**: GCC with C++23 support
