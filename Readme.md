@@ -24,7 +24,8 @@ lcm_project/
 ## Usage
 1. Run the program:
    ```bash
-   ./r
+   $ ./r A B
+   $ # will retrurn the LCM of A and B
    ```
 
 2. Enter two 64-bit integers when prompted. Example:
